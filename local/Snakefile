@@ -1,0 +1,35 @@
+from snakemake.utils import min_version
+
+min_version("7.7.0")
+
+configfile: "defaults/config.yaml"
+
+SEROTYPES = ["all", "denv1", "denv2", "denv3", "denv4"]
+
+wildcard_constraints:
+    serotype = "|".join(SEROTYPES)
+
+
+rule all:
+    input:
+        expand("results/metadata_{serotype}.tsv", serotype=SEROTYPES),
+        expand("results/sequences_{serotype}.fasta", serotype=SEROTYPES),
+        expand("results/include_{serotype}.txt", serotype=SEROTYPES),
+        "results/input_report.txt",
+        "results/validation_report.txt",
+        "results/replicates.tsv",
+        "results/genbank_copies.tsv",
+
+
+include: "rules/prepare.smk"
+include: "rules/validate.smk"
+include: "rules/deduplicate.smk"
+include: "rules/finalize.smk"
+
+
+rule clean:
+    params:
+        "data ",
+        "results"
+    shell:
+        "rm -rfv {params}"

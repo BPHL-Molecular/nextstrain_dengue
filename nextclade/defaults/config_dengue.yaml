@@ -1,0 +1,53 @@
+# Sequences must be FASTA and metadata must be TSV
+# Both files must be zstd compressed
+# Both files must have a {serotype} expandable field to be replaced by all, denv1-denv4
+sequences_url: "https://data.nextstrain.org/files/workflows/dengue/sequences_{serotype}.fasta.zst"
+metadata_url: "https://data.nextstrain.org/files/workflows/dengue/metadata_{serotype}.tsv.zst"
+
+strain_id_field: "accession"
+display_strain_field: "strain"
+
+filter:
+  exclude: "../phylogenetic/defaults/exclude.txt"
+  include: "../phylogenetic/defaults/{serotype}/include.txt"
+  group_by: "year region"
+  min_length:
+    genome: 5000
+    E: 1000
+  sequences_per_group:
+    all: '10'
+    denv1: '36'
+    denv2: '36'
+    denv3: '36'
+    denv4: '36'
+
+outgroup:
+  denv1: "defaults/outgroup.fasta"
+  denv2: "defaults/outgroup_denv2.fasta"
+  denv3: "defaults/outgroup.fasta"
+  denv4: "defaults/outgroup.fasta"
+
+refine:
+  root_id:
+    all: ["Reconstructed_root_sequence_of_https_nextstrain_org_dengue/all/genome"]
+    denv1: ['Reconstructed_root_sequence_of_https_nextstrain_org_dengue/denv1/genome', 'Reconstructed_root_sequence_of_https_nextstrain_org_dengue/all/genome']
+    denv2: ['Reconstructed_root_sequence_of_https_nextstrain_org_dengue/denv2/genome', 'Reconstructed_root_sequence_of_https_nextstrain_org_dengue/denv4/genome']
+    denv3: ['Reconstructed_root_sequence_of_https_nextstrain_org_dengue/denv3/genome', 'Reconstructed_root_sequence_of_https_nextstrain_org_dengue/all/genome']
+    denv4: ['Reconstructed_root_sequence_of_https_nextstrain_org_dengue/denv4/genome', 'Reconstructed_root_sequence_of_https_nextstrain_org_dengue/all/genome']
+
+traits:
+  sampling_bias_correction: '3'
+  traits_columns:
+    all: 'region serotype_genbank genotype_nextclade'
+    denv1: 'country region serotype_genbank genotype_nextclade'
+    denv2: 'country region serotype_genbank genotype_nextclade'
+    denv3: 'country region serotype_genbank genotype_nextclade'
+    denv4: 'country region serotype_genbank genotype_nextclade'
+
+clades:
+  clade_definitions:
+    all: '../phylogenetic/defaults/clades_serotypes.tsv'
+    denv1: 'defaults/clades_genotypes_denv1.tsv'
+    denv2: 'defaults/clades_genotypes_denv2.tsv'
+    denv3: 'defaults/clades_genotypes_denv3.tsv'
+    denv4: 'defaults/clades_genotypes_denv4.tsv'

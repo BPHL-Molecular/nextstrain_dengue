@@ -1,0 +1,1010 @@
+KM204119	strain	Hawaii # from GenBank record, DENV1 WHO reference
+KM204118	strain	New_Guinea_C # from GenBank record, DENV2 WHO reference
+KU050695	strain	H87 # from GenBank record, DENV3 WHO reference
+KR011349	strain	H241 # from GenBank record, DENV4 WHO reference
+JF260983	serotype_genbank	denv2 # denv2/S from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KT026309	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KT445955	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KT445956	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KT445957	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KT445958	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KT445959	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KT445960	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KT445961	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KT445962	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KT445963	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KX059015	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059016	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059017	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059019	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059021	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059022	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059024	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059025	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059028	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059029	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059030	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059033	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059037	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY369949	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY369950	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY369951	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586306	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586307	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586308	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586309	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586310	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586311	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586312	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586313	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586314	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586315	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586316	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586317	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586318	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586319	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586320	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586321	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586322	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586323	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586324	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586325	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586326	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586327	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586328	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586329	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586330	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586331	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586332	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586333	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586334	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586335	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586336	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586337	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586338	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586339	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586340	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586341	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586342	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586343	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586344	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586345	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586346	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586347	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586348	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586349	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586350	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586351	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586352	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586353	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586354	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586355	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586356	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586357	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586358	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586359	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586360	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586361	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586362	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586363	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586364	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586365	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586366	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586367	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586368	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586369	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586370	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586371	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586372	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586373	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586374	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586375	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586376	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586377	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586378	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586379	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586380	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586381	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586382	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586383	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586384	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586385	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586386	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586387	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586388	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586389	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586390	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586391	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586392	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586393	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586394	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586395	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586396	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586397	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586398	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586399	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586400	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586401	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586402	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586403	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586404	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586405	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586406	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586407	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586408	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586409	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586410	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586411	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586412	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586413	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586414	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586415	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586416	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586417	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586418	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586419	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586420	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586421	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586422	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586423	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586424	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586425	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586426	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586427	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586428	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586429	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586430	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586431	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586432	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586433	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586434	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586435	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586436	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586437	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586438	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586439	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586440	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586441	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586442	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586443	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586444	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586445	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586446	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586447	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586448	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586449	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586450	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586451	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586452	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586453	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586454	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586455	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586456	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586457	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586458	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586459	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586460	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586461	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586462	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586463	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586464	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586465	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586466	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586467	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586468	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586469	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586470	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586471	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586472	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586473	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586474	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586475	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586476	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586477	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586478	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586479	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586480	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586481	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586482	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586483	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586484	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586485	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586486	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586487	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586488	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586489	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586490	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586491	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586492	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586493	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586494	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586495	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586496	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586497	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586498	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586499	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586500	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586501	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586502	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586503	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586504	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586505	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586506	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586507	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586508	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586509	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586510	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586511	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586512	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586513	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586514	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586515	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586516	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586517	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586518	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586519	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586520	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586521	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586522	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586523	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586524	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586525	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586526	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586527	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586528	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586529	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586530	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586531	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586532	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586533	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586534	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586535	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586536	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586537	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586538	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586539	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586540	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586541	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586542	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586543	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586544	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586545	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586546	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KY586547	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586548	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586549	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586550	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586551	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586552	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586553	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586554	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586555	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586556	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586557	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586558	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586559	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586560	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586561	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586562	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586563	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586564	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586565	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586566	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586567	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586568	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586569	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586570	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586571	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586572	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586573	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586574	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586575	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586576	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586577	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586578	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586579	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586580	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586581	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586582	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586583	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586584	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586585	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586586	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586587	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586588	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586589	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586590	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586591	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586592	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586593	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586594	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586595	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586596	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586597	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586598	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586599	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586600	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586601	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586602	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586603	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586604	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586605	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586606	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586607	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586608	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586609	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586610	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586611	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586612	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586613	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586614	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586615	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586616	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586617	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586618	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586619	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586620	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586621	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586622	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586623	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586624	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586625	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586626	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586627	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586628	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586629	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586630	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586631	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586632	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586633	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586634	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586635	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586636	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586637	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586638	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586639	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586640	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586641	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586642	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586643	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586644	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586645	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586646	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586647	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586648	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586649	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586650	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586651	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586652	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586653	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586654	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586655	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586656	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586657	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586658	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586659	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586660	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586661	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586662	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586663	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586664	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586665	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586666	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586667	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586668	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586669	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586670	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586671	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586672	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586673	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586674	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586675	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586676	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586677	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586678	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586679	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586680	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586681	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586682	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586683	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586684	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586685	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586686	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586687	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586688	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586689	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586690	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586691	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586692	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586693	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586694	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586695	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586696	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586697	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586698	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586699	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586700	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+KY586701	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586702	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586703	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586704	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586705	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586706	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586707	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586708	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586709	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586710	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586711	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586712	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586713	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586714	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586715	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586716	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586717	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586718	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586719	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586720	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586721	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586722	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586723	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586724	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586725	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586726	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586727	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586728	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586729	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586730	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586731	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586732	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586733	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586734	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586735	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586736	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586737	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586738	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586739	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586740	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586741	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586742	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586743	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586744	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586745	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586746	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586747	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586748	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586749	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586750	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586751	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586752	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586753	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586754	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586755	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586756	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586757	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586758	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586759	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586760	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586761	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586762	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586763	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586764	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586765	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586766	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586767	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586768	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586769	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586770	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586771	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586772	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586773	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586774	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586775	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586776	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586777	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586778	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586779	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586780	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586781	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586782	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586783	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586784	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586785	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586786	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586787	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586788	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586789	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586790	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586791	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586792	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586793	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586794	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586795	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586796	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586797	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586798	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586799	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586800	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586801	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586802	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586803	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586804	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586805	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586806	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586807	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586808	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586809	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586810	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586811	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586812	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586813	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586814	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586815	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586816	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586817	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586818	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586819	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586820	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586821	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586822	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+KY586823	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586824	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586825	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586826	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586840	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586841	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586842	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586843	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586844	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586845	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586846	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586847	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586848	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586849	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586850	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586851	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586852	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586853	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586854	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586855	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586856	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586857	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586858	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586859	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586860	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586861	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586862	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586863	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586864	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586865	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586866	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586867	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586868	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586869	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586870	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586871	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586872	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586873	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586874	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586875	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586876	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586877	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586878	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586879	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586880	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586881	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586882	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586883	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586884	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586885	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586886	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586887	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586888	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586889	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586890	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586891	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586892	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586893	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586894	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586895	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586896	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586897	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586899	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586900	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586901	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586902	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586905	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586906	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586907	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586911	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586913	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586915	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586916	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586920	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586921	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586923	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586924	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586925	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586926	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586927	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586928	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586929	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586930	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586931	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586933	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586934	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586936	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586937	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586941	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586942	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586943	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586944	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586945	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586946	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY977454	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599592	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599593	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599594	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599595	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599596	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599597	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599598	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599599	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599600	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599601	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599602	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599603	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599604	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599605	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599606	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599607	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599608	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599609	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599610	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599611	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599612	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599613	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599614	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599615	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599616	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599617	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599618	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599619	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599620	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599621	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599622	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599623	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599624	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599625	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599626	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599627	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599628	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599629	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599630	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599631	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599632	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599633	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MG599634	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MH450295	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MH450296	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+MH450297	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+MH450298	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+MH450299	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+MH450300	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MH450301	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+MH450302	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MH450303	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+MH450304	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+MH450305	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+MH450306	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+MH450307	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+MH450308	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+MH450309	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+MH450310	serotype_genbank	denv2 # denv2 from GenBank record and sequence aligns closest to KM204118 DENV2 WHO reference
+MH450311	serotype_genbank	denv3 # denv3 from GenBank record and sequence aligns closest to KU050695 DENV3 WHO reference
+MN567692	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+MN567693	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+MN567694	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+MN567695	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+MN567696	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+MN567697	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KF907503	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KT026308	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KT026310	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059018	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059020	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059023	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059026	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059027	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059031	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059032	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059034	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059035	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX059036	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KX812530	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586827	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586828	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586829	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586830	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586831	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586832	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586833	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586834	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586835	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586836	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586837	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586838	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586839	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586898	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586903	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586904	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586908	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586909	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586910	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586912	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586914	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586917	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586918	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586919	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586922	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586932	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586935	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586938	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586939	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KY586940	serotype_genbank	denv4 # denv4 from GenBank record and sequence aligns closest to KR011349 DENV4 WHO reference
+KP772252	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KR052012	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KR071622	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KR919820	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+KR919821	serotype_genbank	denv1 # denv1 from GenBank record and sequence aligns closest to KM204119 DENV1 WHO reference
+ON127553	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON127551	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON127538	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON127534	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON127419	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON116130	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON115819	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON115817	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON115815	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON115812	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON115183	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON115030	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON115026	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON115024	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON115022	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON111446	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON103391	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON103303	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+OK079104	serotype_genbank	denv3 # Annotated as denv1 but aligns closer to denv3
+ON046278	serotype_genbank	denv2 # Annotated as denv1 but aligns closer to denv2
+ON046277	serotype_genbank	denv2 # Annotated as denv1 but aligns closer to denv2
+ON046276	serotype_genbank	denv2 # Annotated as denv1 but aligns closer to denv2
+ON046275	serotype_genbank	denv2 # Annotated as denv1 but aligns closer to denv2
+ON046274	serotype_genbank	denv2 # Annotated as denv1 but aligns closer to denv2
+ON046273	serotype_genbank	denv2 # Annotated as denv1 but aligns closer to denv2
+ON046272	serotype_genbank	denv2 # Annotated as denv1 but aligns closer to denv2
+ON046271	serotype_genbank	denv2 # Annotated as denv1 but aligns closer to denv2
+ON046270	serotype_genbank	denv2 # Annotated as denv1 but aligns closer to denv2
+ON046269	serotype_genbank	denv2 # Annotated as denv1 but aligns closer to denv2
+ON046268	serotype_genbank	denv2 # Annotated as denv1 but aligns closer to denv2
+ON045733	serotype_genbank	denv4 # Annotated as denv1 but aligns closer to denv4
+S44168	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+OQ520876	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ520875	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ520874	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ520873	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ520872	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519670	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519669	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519668	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519667	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519666	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519665	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519664	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519663	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519662	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519661	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519660	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519659	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519658	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519657	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519656	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519655	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OQ519654	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OP788175	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788174	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788173	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788172	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788171	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788170	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788169	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788168	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788167	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788166	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788165	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788164	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788163	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788162	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788161	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788160	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788159	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788158	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788157	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788156	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788155	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788154	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788153	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788152	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788151	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788150	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788149	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788148	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788147	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788146	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788145	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788144	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788143	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788142	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788141	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788140	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788139	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788138	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP788137	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP741244	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OP741243	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OP740753	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OP491597	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+OP491531	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+OP491529	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+OP491465	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+OP435268	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+OP164424	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OP164423	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OP164422	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OP120949	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP120948	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP120947	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+OP090329	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OP090328	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+OP090327	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+ON629748	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MZ278208	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW830396	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW795722	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW795721	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW600550	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW600549	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW600548	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW600547	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW600546	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW600545	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW600544	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW600543	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW600542	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW600541	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MW332625	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332624	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332618	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332617	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332592	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332591	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332590	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332589	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332588	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332587	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332586	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332585	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332584	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332583	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332582	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332581	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332580	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332579	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332578	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332577	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332576	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332575	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332509	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332508	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332507	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332506	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332505	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332501	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332500	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332499	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332498	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332497	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332479	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332478	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332477	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332476	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332475	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332471	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332470	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332469	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332468	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332467	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332465	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332464	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332463	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332462	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW332461	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW320656	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MW301594	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301593	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301592	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301591	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301590	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301589	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301588	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301587	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301586	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301585	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301584	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301583	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MW301582	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MT804426	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MT804425	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MT804424	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MT804423	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MT804422	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MT804420	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MT804419	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MT804418	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MT804417	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MT804416	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MT804413	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MT804412	serotype_genbank	denv3 # Annotated as denv1 but matches denv3
+MT804411	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MT804410	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MT804409	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MT804408	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MT804407	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MT804406	serotype_genbank	denv4 # Annotated as denv1 but matches denv4
+MB029372	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32971	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32969	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32968	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32967	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32965	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32964	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32963	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32962	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32961	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32956	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32953	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32952	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32951	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32949	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32948	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32947	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32946	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32945	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32944	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32943	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32942	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32941	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32940	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32939	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32938	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32936	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32935	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32934	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32933	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+M32932	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+LN999961	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+KR029570	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+KR029569	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+KR029568	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+KR029567	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+KR029566	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+KR029565	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+FJ502850	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+AY612201	serotype_genbank	denv2 # Annotated as denv1 but matches denv2
+MT597439	serotype_genbank	denv4 # Annotated as denv2 but is denv4 based on submitter article https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7952331/ (isolate: 43257)
+MN448607	serotype_genbank	denv1 # Annotated as denv2 but blastn places within denv1
+MZ284953	serotype_genbank	denv1 # Annotated as organism="dengue virus type 3" but isolate="dev1"
+MZ285732	serotype_genbank	denv1 # Annotated as organism="dengue virus type 3" but isolate="dev1"
+MZ285058	serotype_genbank	denv2 # Annotated as organism="Dengue virus 4" but duplicate of NC_001474 (denv2)
+MW332572	serotype_genbank	denv2 # Annotated as organism="Dengue virus 4" but blastn places within denv2
+MS631898	serotype_genbank	denv4 # Annotated as organism="Dengue virus 2" but blastn places within denv4
+MB466022	serotype_genbank	denv4 # Annotated as organism="Dengue virus 2" but blastn places within denv4

@@ -1,0 +1,71 @@
+daytona_runs: []
+sample_metadata: "input/metadata.txt"
+vadr_flags: ["PASS", "REVIEW"]
+vector_pattern: "(?i)^(?:mosquitopool|mosquito|mpool|mp)[_-]"
+vector_host: "Aedes aegypti"
+
+constants:
+  country: "USA"
+  region: "North America"
+  division: "Florida"
+  host: "Homo sapiens"
+  is_lab_host: "false"
+  institution: "Florida Department of Health, Bureau of Public Health Laboratories"
+  authors: "FL BPHL"
+  full_authors: "Florida Department of Health, Bureau of Public Health Laboratories"
+  url: ""
+  data_source: "Florida BPHL"
+
+strain_template: "DENV{serotype_number}/{country}/{accession}/{year}"
+
+validate:
+  id_regex: "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+  public_metadata: "../ingest/results/metadata_all.tsv"
+  host_map: "../ingest/defaults/host_hostgenus_hosttype_map.tsv"
+  region_map: "../phylogenetic/defaults/color_orderings.tsv"
+  required_columns: ["sample_id", "serotype", "collection_date", "nextclade_clade"]
+  optional_columns: ["strain", "country", "region", "division", "location", "host",
+                     "case_origin", "travel_country", "authors", "institution", "notes",
+                     "vadr_flag"]
+  allowed_serotypes: ["denv1", "denv2", "denv3", "denv4"]
+  min_ungapped_length: 5000
+  max_ambiguous_fraction: 0.30
+  strict: false
+
+genbank_copies:
+  metadata: "../ingest/results/metadata_{serotype}.tsv"
+  sequences: "../ingest/results/sequences_{serotype}.fasta"
+  reference: "../phylogenetic/defaults/{serotype}/reference.gb"
+
+metadata_columns:
+  - strain
+  - accession
+  - accession_version
+  - date
+  - region
+  - country
+  - division
+  - location
+  - length
+  - host
+  - host_genus
+  - host_type
+  - is_lab_host
+  - date_released
+  - date_updated
+  - authors
+  - full_authors
+  - institution
+  - serotype_genbank
+  - url
+  - data_source
+  - country_exposure
+  - region_exposure
+  - genotype_nextclade
+  - genotype
+  - major_lineage
+  - minor_lineage
+  - case_origin
+  - travel_country
+  - notes
+  - vadr_flag

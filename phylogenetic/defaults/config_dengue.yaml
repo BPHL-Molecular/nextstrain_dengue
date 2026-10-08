@@ -1,0 +1,70 @@
+# Define wildcards used for building trees in the workflow
+serotypes: ['all', 'denv1', 'denv2', 'denv3', 'denv4']
+genes: ['genome', 'E']
+
+# Sequences must be FASTA and metadata must be TSV
+# Both files can use any compression format supported by `augur read-file`
+# Both files must have a {serotype} expandable field to be replaced by all, denv1-denv4
+inputs:
+  - name: ncbi
+    metadata: "https://data.nextstrain.org/files/workflows/dengue/metadata_{serotype}.tsv.zst"
+    sequences: "https://data.nextstrain.org/files/workflows/dengue/sequences_{serotype}.fasta.zst"
+
+strain_id_field: "accession"
+display_strain_field: "strain"
+
+filter:
+  exclude: "defaults/exclude.txt"
+  include: "defaults/{serotype}/include.txt"
+  group_by: "year region"
+  min_length:
+    genome: 5000
+    E: 1000
+  subsample_max_sequences: '4000'
+  subsample_seed: '20260917'
+
+refine:
+  # Estimated clock rates from successful auspice builds as of 2025-12-15:
+  # https://next.nextstrain.org/dengue/all/genome@2025-12-15?l=clock
+  clock_rate:
+    all:
+      genome: 0.00051
+      E: 0.00052
+    denv1:
+      genome: 0.00061
+      E: 0.00061
+    denv2:
+      genome: 0.00078
+      E: 0.00072
+    denv3:
+      genome: 0.0007
+      E: 0.00082
+    denv4:
+      genome: 0.0006
+      E: 0.00081
+
+traits:
+  sampling_bias_correction: '3'
+  traits_columns:
+    all: 'region serotype_genbank'
+    denv1: 'country region serotype_genbank'
+    denv2: 'country region serotype_genbank'
+    denv3: 'country region serotype_genbank'
+    denv4: 'country region serotype_genbank'
+
+clades:
+  clade_definitions:
+    all: 'defaults/clades_serotypes.tsv'
+    denv1: 'defaults/clades_genotypes.tsv'
+    denv2: 'defaults/clades_genotypes.tsv'
+    denv3: 'defaults/clades_genotypes.tsv'
+    denv4: 'defaults/clades_genotypes.tsv'
+
+tip_frequencies:
+    min_date: "1980-01-01"
+    max_date: "6M"
+    narrow_bandwidth: 0.2
+    wide_bandwidth: 0.6
+
+export:
+  description: "defaults/description.md"

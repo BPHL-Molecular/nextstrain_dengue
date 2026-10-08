@@ -1,0 +1,26 @@
+from snakemake.utils import min_version
+
+min_version(
+    "7.7.0"
+)  # Snakemake 7.7.0 introduced `retries` directive used in fetch-sequences
+
+configfile: "defaults/config.yaml"
+
+serotypes = ['all', 'denv1', 'denv2', 'denv3', 'denv4']
+
+
+rule all:
+    input:
+        expand(["results/sequences_{serotype}.fasta", "results/metadata_{serotype}.tsv"], serotype=serotypes)
+
+
+include: "rules/fetch_from_ncbi.smk"
+include: "rules/curate.smk"
+include: "rules/split_serotypes.smk"
+include: "rules/nextclade.smk"
+
+# Include custom rules defined in the config.
+if "custom_rules" in config:
+    for rule_file in config["custom_rules"]:
+
+        include: rule_file

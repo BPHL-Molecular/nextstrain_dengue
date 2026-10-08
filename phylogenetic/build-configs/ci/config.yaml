@@ -1,0 +1,7 @@
+serotypes: ["all"]
+genes: ["genome", "E"]
+
+inputs:
+  - name: example
+    metadata: example_data/metadata_{serotype}.tsv
+    sequences: example_data/sequences_{serotype}.fasta

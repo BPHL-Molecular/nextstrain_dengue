@@ -1,0 +1,51 @@
+# Files created by the pipeline, which we want to keep out of git
+# (or at least out of _this_ git repo).
+data/
+results/
+auspice/
+build/
+
+# Sensitive environment variables
+environment*
+
+# Private consensus sequences and their metadata. Never commit these.
+# local/data/ and local/results/ are already covered by the rules above.
+local/input/*
+!local/input/.gitkeep
+
+# Snakemake state dir
+.snakemake/
+benchmarks/
+logs/
+
+# Local config overrides
+/config_local.yaml
+
+# For Python #
+##############
+*.pyc
+.tox/
+.cache/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Build folders for analysis hold patient-level tables.
+/builds/
